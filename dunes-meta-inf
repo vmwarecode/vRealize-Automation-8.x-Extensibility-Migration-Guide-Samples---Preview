@@ -2,11 +2,11 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 <comment>UTF-16</comment>
-<entry key="vso-build-nb">16941495</entry>
-<entry key="pkg-name">com.vmware.vra.extensibility.samples</entry>
-<entry key="used-plugins">REST#2.3.8,VC#6.5.0,DynamicTypes#1.3.6,Configurator#8.2.0</entry>
-<entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO vco-app-6d868b8df5-6d9ck 9482f049-8df2-417e-8589-5011e9c9fa2c</entry>
-<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO vco-app-c5954b8c4-sf472 b42cd0b7-9cda-4340-95ab-332d6de41330</entry>
-<entry key="vso-version">8.2.0.16941495</entry>
-<entry key="pkg-id">8a7480b574e7ccf00174f958f89a0049</entry>
+<entry key="vso-build-nb">17522798</entry>
+<entry key="pkg-name">com.vmware.vra82.extensibility.samples</entry>
+<entry key="used-plugins">REST#2.3.8,DynamicTypes#1.3.6,VC#6.5.0,Configurator#8.3.0</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO vco-app-cc797b58b-g7xq9 770da0a9-7278-4ca0-af71-134a0c673bb1</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO vco-app-6d868b8df5-6d9ck 9482f049-8df2-417e-8589-5011e9c9fa2c</entry>
+<entry key="vso-version">8.3.0.17522798</entry>
+<entry key="pkg-id">8a7480fc7849ce9b01786dfa82e63d30</entry>
 </properties>
